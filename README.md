@@ -25,7 +25,8 @@ Benefits of using the S.O.L.I.D Principles;
 ## Single Responsibility Principle
 Every module/class written should have one responsibility and all of the defined module/class's services should be narrowly aligned with that responsibility. This means that every module/class defined within a code base adhering to S.O.L.I.D, should have one and only one reason to change. 
 
-**Benefits of SRP** 
+**Benefits of SRP**
+
 Increases code readability (each module/class does only one thing), extensibility, and ease of maintenance.
 
 ## Open/Closed Principle
