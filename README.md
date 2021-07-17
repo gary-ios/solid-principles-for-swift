@@ -1,7 +1,7 @@
 # solid-principles-for-swift
 Swift code snippets showing how to use each of the S.O.L.I.D Principles.
 
-**** What are the S.O.L.I.D Principles?
+**What are the S.O.L.I.D Principles?**
 
 The S.O.L.I.D Principles of Object Orientated Programming were developed by Robert C. Martin (Uncle Bob).
 
@@ -22,10 +22,10 @@ Benefits of using the S.O.L.I.D Principles;
   - Makes code refactoring easier.
   - Makes writing automated software tests easier.
 
-**** Single Responsibility Principle
+**Single Responsibility Principle**
 
 
-**** Open/Closed Principle
-**** Liskov’s Subsititution Principle
-**** Interface Segregation Principle
-**** Dependency Inversion Principle
+**Open/Closed Principle**
+**Liskov’s Subsititution Principle**
+**Interface Segregation Principle**
+**Dependency Inversion Principle**
