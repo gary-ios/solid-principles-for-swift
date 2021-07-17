@@ -1,4 +1,4 @@
-# solid-principles-for-swift
+# solid-principles-in-swift
 Swift code snippets showing how to use each of the S.O.L.I.D Principles.
 
 **What are the S.O.L.I.D Principles?**
