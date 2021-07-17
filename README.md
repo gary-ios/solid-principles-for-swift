@@ -22,10 +22,10 @@ Benefits of using the S.O.L.I.D Principles;
   - Makes code refactoring easier.
   - Makes writing automated software tests easier.
 
-**Single Responsibility Principle**
+## Single Responsibility Principle
 
 
-**Open/Closed Principle**
-**Liskov’s Subsititution Principle**
-**Interface Segregation Principle**
-**Dependency Inversion Principle**
+## Open/Closed Principle
+## Liskov’s Subsititution Principle
+## Interface Segregation Principle
+## Dependency Inversion Principle
