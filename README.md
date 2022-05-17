@@ -30,6 +30,11 @@ Every module/class written should have one responsibility and all of the defined
 Increases code readability (each module/class does only one thing), extensibility, and ease of maintenance.
 
 ## Open/Closed Principle
+Classes and Modules should be open for extension but closed for modification
+
+**Benefits of OCP**
+Code doesnt have to change everytime the requirements change.
+
 ## Liskov’s Subsititution Principle
 ## Interface Segregation Principle
 ## Dependency Inversion Principle
