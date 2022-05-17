@@ -33,8 +33,19 @@ Increases code readability (each module/class does only one thing), extensibilit
 Classes and Modules should be open for extension but closed for modification
 
 **Benefits of OCP**
+
 Code doesnt have to change everytime the requirements change.
 
 ## Liskov’s Subsititution Principle
+Child classes should never break the parent class type definitions 
+
+It means, we must make sure that new derived classes should extend the base classes without changing the base class behavior
+
+As simple as, a subclass should override the parent class methods in a way that doesnt break the funtionality of base class from client point of view.
+
+**Benefits of OCP**
+
+Similar to OCP code doesnt have to change everytime the requirements change.
+
 ## Interface Segregation Principle
 ## Dependency Inversion Principle
