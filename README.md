@@ -43,7 +43,7 @@ It means, we must make sure that new derived classes should extend the base clas
 
 As simple as, a subclass should override the parent class methods in a way that doesnt break the funtionality of base class from client point of view.
 
-**Benefits of OCP**
+**Benefits of LSP**
 
 Similar to OCP code doesnt have to change everytime the requirements change.
 
@@ -61,3 +61,10 @@ High cohesion - better understandability, robustness
 Low coupling - better maintainability, high resistance to changes
 
 ## Dependency Inversion Principle
+
+High level modules should not depend on low level modules both should depend on Abstractions.
+It introduces an interface abstraction between higher-level and lower-level software components to remove the dependencies between them.
+
+**Benefits of DIP**
+High-level modules become easily reusable and unaffected by changes in low-level modules.
+
