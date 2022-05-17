@@ -48,4 +48,16 @@ As simple as, a subclass should override the parent class methods in a way that 
 Similar to OCP code doesnt have to change everytime the requirements change.
 
 ## Interface Segregation Principle
+
+Make fine grained interface that are client specific
+
+This principle solves FAT interface problems of Object Oriented Programming
+
+A interface is called FAT when it has too many methods which contains more information than we really want.
+
+**Benefits of ISP**
+
+High cohesion - better understandability, robustness
+Low coupling - better maintainability, high resistance to changes
+
 ## Dependency Inversion Principle
